@@ -2,19 +2,11 @@
 
 ## About
 
-This portfolio demonstrates my ability to evaluate AI-generated responses using structured quality assessment methods.
+This repository showcases structured AI evaluation case studies created as part of my preparation for AI Quality Evaluation, Search Quality Evaluation, and Human Feedback (RLHF) roles.
 
-The examples in this repository are practice case studies created as part of my preparation for AI Quality Assurance, AI Evaluation, Search Quality Evaluation, and Human Feedback (RLHF) roles.
+The case studies demonstrate practical skills in evaluating AI-generated responses for factual accuracy, reasoning quality, instruction-following, search relevance, safety, hallucination detection, and overall response quality.
 
-The goal is to demonstrate analytical thinking, attention to detail, fact verification, instruction following, and content quality review.
-
----
-ai-evaluation
-quality-assurance
-fact-checking
-hallucination-detection
-search-quality
-content-review
+The portfolio focuses on applying consistent evaluation criteria and providing evidence-based feedback to improve AI-generated content.
 
 # Evaluation Criteria
 
@@ -50,7 +42,14 @@ Topics include:
 - Response Improvement
 
 ---
+## Featured Case Studies
 
+1. [AI Response Quality Review](Professional_Case_Studies/Case_01_AI_Response_Review.md)
+2. [Response Comparison](Professional_Case_Studies/Case_02_Response_Comparison.md)
+3. [Search Quality Evaluation](Professional_Case_Studies/Case_03_Search_Quality.md)
+4. [Instruction-Following Evaluation](Professional_Case_Studies/Case_04_Instruction_Following.md)
+5. [Safety and Misinformation Review](Professional_Case_Studies/Case_05_Safety_Review.md)
+   
 # Purpose
 
 This portfolio was created to demonstrate practical AI evaluation skills through structured review of AI-generated content.
