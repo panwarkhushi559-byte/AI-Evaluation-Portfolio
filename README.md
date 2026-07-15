@@ -9,6 +9,12 @@ The examples in this repository are practice case studies created as part of my 
 The goal is to demonstrate analytical thinking, attention to detail, fact verification, instruction following, and content quality review.
 
 ---
+ai-evaluation
+quality-assurance
+fact-checking
+hallucination-detection
+search-quality
+content-review
 
 # Evaluation Criteria
 
