@@ -29,17 +29,14 @@ Each evaluation considers one or more of the following:
 
 This repository contains evaluation reports covering different AI quality assessment scenarios.
 
-Topics include:
+The portfolio currently includes structured evaluation reports covering:
 
-- Factual Accuracy
-- Hallucination Detection
+- AI Response Quality Review
 - Response Comparison
-- Search Quality
+- Search Quality Evaluation
+- Hallucination Detection
 - Instruction Following
-- Grammar & Clarity
-- Safety Evaluation
-- Bias Review
-- Response Improvement
+- Safety & Misinformation Review
 
 ---
 ## Featured Case Studies
@@ -76,9 +73,21 @@ Each case study includes:
 - GitHub
 
 ---
+## Skills Demonstrated
 
+- AI Response Evaluation
+- Search Quality Assessment
+- Fact Verification
+- Hallucination Detection
+- Instruction Following
+- Critical Thinking
+- Analytical Reasoning
+- Content Quality Review
+- Safety Evaluation
+- Technical Communication
+  
 ## Author
 
 Khushi Panwar
 
-Research Associate | Content Writer | Technical Writer
+Research Associate | AI Evaluation | Content Quality Review | Technical Writer
