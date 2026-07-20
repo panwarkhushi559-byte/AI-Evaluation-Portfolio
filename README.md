@@ -1,3 +1,15 @@
+## Evaluation Philosophy
+
+Every evaluation in this repository follows a repeatable methodology based on:
+
+- User intent analysis
+- Evidence-based reasoning
+- Structured evaluation criteria
+- Transparent scoring
+- Documented justification
+- Actionable recommendations
+
+The goal is to produce consistent, explainable, and reproducible AI evaluations rather than subjective opinions.
 # AI Evaluation Portfolio
 
 > Structured AI evaluation case studies focused on response quality, search quality, instruction following, safety, and content review.
