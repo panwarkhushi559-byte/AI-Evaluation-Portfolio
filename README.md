@@ -1,93 +1,187 @@
 # AI Evaluation Portfolio
 
-## About
+> Structured AI evaluation case studies focused on response quality, search quality, instruction following, safety, and content review.
 
-This repository showcases structured AI evaluation case studies created as part of my preparation for AI Quality Evaluation, Search Quality Evaluation, and Human Feedback (RLHF) roles.
+---
 
-The case studies demonstrate practical skills in evaluating AI-generated responses for factual accuracy, reasoning quality, instruction-following, search relevance, safety, hallucination detection, and overall response quality.
+# About
 
-The portfolio focuses on applying consistent evaluation criteria and providing evidence-based feedback to improve AI-generated content.
+Hi, I'm **Khushi Panwar**, a Research Associate with experience in AI evaluation, content quality review, research, information verification, and technical documentation.
 
-# Evaluation Criteria
+This repository contains practical AI evaluation case studies demonstrating structured evaluation methods used to assess AI-generated responses for:
 
-Each evaluation considers one or more of the following:
-
-- Factual Accuracy
-- Instruction Following
-- Completeness
-- Clarity
-- Grammar
-- Reasoning Quality
-- Hallucination Detection
+- Factual accuracy
+- Reasoning quality
+- Search quality
+- Instruction following
+- Hallucination detection
 - Safety
-- Bias & Fairness
-- Overall Helpfulness
+- Clarity
+- Overall response quality
+
+Every evaluation follows a consistent methodology based on explicit criteria, evidence-based reasoning, and documented decisions.
 
 ---
 
-# Portfolio Structure
+# Skills Demonstrated
 
-This repository contains evaluation reports covering different AI quality assessment scenarios.
-
-The portfolio currently includes structured evaluation reports covering:
-
-- AI Response Quality Review
-- Response Comparison
-- Search Quality Evaluation
-- Hallucination Detection
-- Instruction Following
-- Safety & Misinformation Review
-
----
-## Featured Case Studies
-
-1. [AI Response Quality Review](Professional_Case_Studies/Case_01_AI_Response_Review.md)
-2. [Response Comparison](Professional_Case_Studies/Case_02_Response_Comparison.md)
-3. [Search Quality Evaluation](Professional_Case_Studies/Case_03_Search_Quality.md)
-4. [Instruction-Following Evaluation](Professional_Case_Studies/Case_04_Instruction_Following.md)
-5. [Safety and Misinformation Review](Professional_Case_Studies/Case_05_Safety_Review.md)
-   
-# Purpose
-
-This portfolio was created to demonstrate practical AI evaluation skills through structured review of AI-generated content.
-
-Each case study includes:
-
-- Original Prompt
-- AI Response
-- Evaluation
-- Identified Issues
-- Suggested Improvement
-- Final Rating
-
----
-
-# Tools Used
-
-- ChatGPT
-- Claude
-- Google Gemini
-- Microsoft Copilot
-- Perplexity AI
-- Markdown
-- GitHub
-
----
-## Skills Demonstrated
+## AI Evaluation
 
 - AI Response Evaluation
+- Response Comparison
 - Search Quality Assessment
-- Fact Verification
+- Instruction Following Evaluation
+- AI Safety Evaluation
 - Hallucination Detection
-- Instruction Following
+- Guideline Adherence
+
+## Research
+
+- Fact Verification
+- Information Verification
 - Critical Thinking
-- Analytical Reasoning
-- Content Quality Review
-- Safety Evaluation
-- Technical Communication
-  
-## Author
+- Evidence-Based Analysis
 
-Khushi Panwar
+## Documentation
 
-Research Associate | AI Evaluation | Content Quality Review | Technical Writer
+- Technical Documentation
+- Markdown
+- GitHub
+- Structured Reporting
+
+---
+
+# Portfolio Projects
+
+## 1. AI Response Quality Evaluation
+
+Evaluate AI-generated responses for factual accuracy, reasoning quality, clarity, completeness, and usefulness.
+
+---
+
+## 2. AI Response Comparison
+
+Compare multiple AI-generated responses using structured evaluation criteria and evidence-based ranking.
+
+---
+
+## 3. Search Quality Assessment
+
+Assess whether AI responses satisfy user search intent while maintaining relevance, completeness, and factual accuracy.
+
+---
+
+## 4. Instruction Following Evaluation
+
+Evaluate how accurately AI follows explicit user instructions while maintaining response quality.
+
+---
+
+## 5. AI Safety Evaluation
+
+Review AI-generated responses for misleading information, unsupported claims, harmful content, and policy compliance.
+
+---
+
+## 6. Content Review Workflow Documentation
+
+Document a structured workflow covering:
+
+- Fact verification
+- Grammar
+- Formatting
+- Clarity
+- Originality
+- Final quality assurance
+
+---
+
+## 7. TaskFlow Technical Documentation
+
+Technical documentation project including:
+
+- User Guides
+- API Documentation
+- FAQs
+- Troubleshooting
+- Onboarding Documentation
+
+---
+
+# Evaluation Methodology
+
+Every completed evaluation follows the same framework.
+
+## Problem
+
+Define the evaluation objective.
+
+↓
+
+## Evaluation Criteria
+
+Identify measurable quality dimensions.
+
+↓
+
+## Evaluation
+
+Analyze the response using structured evidence.
+
+↓
+
+## Decision
+
+Provide a justified final assessment.
+
+↓
+
+## Evidence
+
+Document supporting observations.
+
+↓
+
+## Result
+
+Summarize findings and recommendations.
+
+---
+
+# Repository Structure
+
+```
+AI-Evaluation-Portfolio
+│
+├── README.md
+├── AI Response Quality Evaluation
+├── AI Response Comparison
+├── Search Quality Assessment
+├── Instruction Following Evaluation
+├── AI Safety Evaluation
+├── Content Review Workflow
+└── TaskFlow Documentation
+```
+
+---
+
+# Tools
+
+- GitHub
+- Markdown
+- Microsoft Word
+- Google Docs
+
+---
+
+# Contact
+
+**Khushi Panwar**
+
+LinkedIn
+
+https://linkedin.com/in/khushi-panwar-48739939a
+
+GitHub
+
+https://github.com/panwarkhushi559-byte
